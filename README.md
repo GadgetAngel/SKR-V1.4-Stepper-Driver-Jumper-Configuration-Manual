@@ -12,6 +12,7 @@ Type git clone, and then paste the URL you copied earlier.
 $ git clone https://github.com/GadgetAngel/SKR-V1.4-Stepper-Driver-Jumper-Configuration-Manual.git
 Press Enter to create your local clone.
 Now open Window explorer to the location of the local clone.
+```
 
 ## The Whole Repository in .zip file is located at https://drive.google.com/open?id=1ynmA4rw3QM6oHC4VUYeIZJsgLPiWB8C3
 
