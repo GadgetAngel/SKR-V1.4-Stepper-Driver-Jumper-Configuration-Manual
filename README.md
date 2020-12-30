@@ -17,6 +17,7 @@ You can download the .zip file (for this repository) from my google drive locate
 
 ## The Whole Repository in .zip file is located on Google Drive at: https://drive.google.com/file/d/17Kp9Up91jG7fkuRo1nIgjalsLMgn0W6u/view?usp=sharing
 
+## Here is a GUIDE on how to connect the MAX31865 board with a PT100/PT1000 Temperature Sensor to the SKR V1.4 board: https://github.com/GadgetAngel/MAX31865-SKR-V1-4-GUIDE
 ## Table of Contents:
 
 ```
